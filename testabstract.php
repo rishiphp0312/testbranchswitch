@@ -17,7 +17,7 @@ if ($test>1) {
 
 
 
-die('push to master third');
+die('push to deve third');
 abstract class dbObject
 {   
     const TABLE_NAME='undefined';
