@@ -16,7 +16,6 @@ if ($test>1) {
 }
 
 
-
 die('push to deve third');
 abstract class dbObject
 {   
